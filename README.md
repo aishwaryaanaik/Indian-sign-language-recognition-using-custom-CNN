@@ -66,8 +66,6 @@ This project presents an **Indian Sign Language (ISL) recognition system** that 
 </p>
 
 
-
-
 ## Future Scope  
 - Use **Temporal Models** (LSTMs/Transformers) for continuous gesture recognition.  
 - Expand dataset with more words, varied backgrounds, and more signers.  
@@ -76,5 +74,6 @@ This project presents an **Indian Sign Language (ISL) recognition system** that 
 
 ## Co-authors
 -Annapurna S.B,Tejaswini Sattikar
+
 
 
